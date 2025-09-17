@@ -7,7 +7,7 @@
 
 This dashboard was created to help identify the best performing players in the 2024/25 Premier League season based on the users desired nationality, club and position. 
 
-The data is sourced from FBREF and Kaggle and provides an overview of player performances across the English Premier League during the 2024/25 season. It was used to calculate an overall score for each player based on their overall stats for the season.    
+The data is sourced from FBREF and Kaggle, and provides an overview of player performances across the English Premier League during the 2024/25 season. It was used to calculate an overall score for each player based on their overall stats for the season.    
 
 ### Dashboard File
 My final dashboard is in [Premier League 24-25 Player Rating Dashboard.xlsx](https://github.com/tom-wilmott/Excel-Project/blob/main/Premier%20League%2024-25%20Dashboard/Premier%20League%2024-25%20Player%20Rating%20Dashboard.xlsx).
@@ -23,7 +23,7 @@ The following Excel skills were utilised for analysis:
 
 ### Data Premier League Player Performance Dataset
 
-The datasets used for this project contains total stats for the 562 players who played in the Premier League during the 2024/25 season. The datasets are available  [here](https://github.com/tom-wilmott/Excel-Project/tree/main/Premier%20League%2024-25%20Dashboard/Dataset). They include detailed information on but not limited to:
+The datasets used for this project contain total stats for the 562 players who played in the Premier League during the 2024/25 season. The datasets are available  [here](https://github.com/tom-wilmott/Excel-Project/tree/main/Premier%20League%2024-25%20Dashboard/Dataset). These include detailed information on, but not limited to, the following:
 
 - **⚽ Goals**
 - **🅰️Assists**
@@ -57,7 +57,7 @@ These were:
 -  **🧱 Defending Score**
 -  **🏃‍♂️ Involvement Score**
 -  **⚽ Attacking Score**
--  **🧢 appearance Score**
+-  **🧢 Appearance Score**
 
 ### 🧮 Formulas and Functions
 
@@ -69,7 +69,7 @@ These were:
   player_stats[@[Tackles]]/MAX('epl_player_stats_24_25 '!AM:AM)*0.25
 ```
 - 🔢 Dividing by the max value provides a percentage of how a player performs compared to the best player in each stat.
-- ⚖️ The stats are weighted different to reflect their importance to the role and are combined to create the subscore.
+- ⚖️ The stats are weighted differently to reflect their importance to the role and are combined to create the subscore.
 
 Each subscore is created in a similar way but uses different attributes.
 
@@ -198,4 +198,4 @@ IF(
 
 ## Conclusion
 
-I created this dashboard to showcase insights into the performance of players in the Premier League during the 2024/25. Utilizing data available to me, this dashboard allows users to explore the best players for their desired criteria and in theory could be utilised for scouting purposes. It enables exploration of functionalities to understand how player of different teams, nationalites and position performed. 
+I created this dashboard to showcase insights into the performance of players in the Premier League during the 2024/25 season. Utilizing data available to me, this dashboard allows users to explore the best players for their desired criteria and in theory could be utilised for scouting purposes. It enables exploration of functionalities to understand how player of different teams, nationalites and position performed. 
