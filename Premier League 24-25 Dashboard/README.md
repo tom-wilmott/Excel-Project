@@ -10,7 +10,7 @@ This dashboard was created to help identify the best performing players in the 2
 The data is from FBREF and Kaggle and provides an overview of player performances across the English Premier League during the 2024/25 season. The data was used to provide an overall score for each player based on their overall stats for the season.    
 
 ### Dashboard File
-My final dashboard is in [Premier League 24-25 Player Rating Dashboard.xlsx](Premier League 24-25 Player Rating Dashboard.xlsx).
+My final dashboard is in [Premier League 24-25 Player Rating Dashboard.xlsx](https://github.com/tom-wilmott/Excel-Project/blob/main/Premier%20League%2024-25%20Dashboard/Premier%20League%2024-25%20Player%20Rating%20Dashboard.xlsx).
 
 ### Excel Skills Used
 
@@ -43,6 +43,8 @@ The datasets used for this project contains total stats for the 562 players who 
 #### 🔗 Load
 
 - Finally, I loaded the transformed query where I used it to complete any missing values in the Kaggle dataset and add a column for age.
+
+  <img width="1688" height="794" alt="Screenshot 2025-09-17 102600" src="https://github.com/user-attachments/assets/80cbecf1-36af-4276-ad19-ec8ed29623db" />
 
 ### Scoring System
 
