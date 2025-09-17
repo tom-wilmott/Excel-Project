@@ -1,6 +1,7 @@
 # Premier League 24/25 Player Rating Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![Player Rating Dashboard](https://github.com/user-attachments/assets/4c75529e-9ba6-4c68-bc53-71c829c4095f)
+
 
 ## Introduction
 
@@ -89,7 +90,7 @@ E2="Forward",(6.25*I2+5*J2)
 
 #### 📊 Best Player Score by Team - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img width="509" height="286" alt="Screenshot 2025-09-17 091844" src="https://github.com/user-attachments/assets/5a583091-4750-4fcc-8b81-0ebb9bc3c4a7" />
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted score values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of best scores.
@@ -98,7 +99,7 @@ E2="Forward",(6.25*I2+5*J2)
 
 #### 🗺️ Country Best Player Score - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![Map Chart](https://github.com/user-attachments/assets/88ac0e0a-9860-425a-b058-a96c0420be46)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot best scores by each nationality.
 - 🎨 **Design Choice:** Colour-coded map to visually differentiate scores across regions.
@@ -131,11 +132,7 @@ The above is very similar for the country and position charts.
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
-
-📉 Dashboard Implementation
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img width="373" height="506" alt="Screenshot 2025-09-17 092414" src="https://github.com/user-attachments/assets/daa31faa-15a9-4a04-8c28-19772afea455" />
 
 #### 🧮 Formulas and Functions
 
@@ -152,7 +149,12 @@ The above is very similar for the country and position charts.
 ```
 - 📊 Using a combination of the `INDEX()`, `SORTBY()` and `SEQUENCE()` functions to manipulate the table to 5 values in the desired order to produce a refined table that is used for the chart.
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img width="285" height="143" alt="Screenshot 2025-09-17 092502" src="https://github.com/user-attachments/assets/18f6a683-cb6a-4cb3-85a3-913a1be2730e" />
+
+##### 📉 Dashboard Implementation
+
+<img width="504" height="397" alt="Screenshot 2025-09-17 093015" src="https://github.com/user-attachments/assets/7709cb47-edb2-4e18-94ec-c14ad55bed00" />
+
 
 ### 📢 Callout Values
 
@@ -175,11 +177,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+<img width="207" height="48" alt="Screenshot 2025-09-17 092744" src="https://github.com/user-attachments/assets/c96aa486-6c17-4e79-8c5e-96b7b161a68f" />
 
-📉 Dashboard Implementation:
+##### 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img width="518" height="567" alt="Screenshot 2025-09-17 092919" src="https://github.com/user-attachments/assets/dbc6f366-8ce2-4008-9dcb-15b8c94e3ed6" />
 
 ### ❎ Data Validation
 
@@ -190,7 +192,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![Data Validation](https://github.com/user-attachments/assets/e8638e23-8d76-4c57-bac9-a15ee480c767)
 
 ## Conclusion
 
