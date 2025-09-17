@@ -23,7 +23,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Premier League Player Performance Dataset
 
-The datasets used for this project contains total stats for the 562 players who played in the Premier League during the 2024/25 season. The datasets are available in (insert link to drive). They include detailed information on but not limited to:
+The datasets used for this project contains total stats for the 562 players who played in the Premier League during the 2024/25 season. The datasets are available in [Dataset](https://github.com/tom-wilmott/Excel-Project/tree/main/Premier%20League%2024-25%20Dashboard/Dataset). They include detailed information on but not limited to:
 
 - **⚽ Goals**
 - **🅰️Assists**
