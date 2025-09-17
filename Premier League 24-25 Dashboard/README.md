@@ -34,7 +34,7 @@ The datasets used for this project contains total stats for the 562 players who 
 
 #### 📥 Extract
 
-- I first used Power Query to extract the original FBFEF Data from (insert folder with all team data) where it was stored as 20 different files, one for each       Premier League team.
+- I first used Power Query to extract the original FBFEF Data which was stored as 20 different sheets, one for each Premier League team.
 
 #### 🔄 Transform
 
